@@ -28,7 +28,22 @@ This is a comprehensive **School Record Management System** built using PHP and 
 2. MySQL server
 3. Web server (e.g., Apache, XAMPP, or WAMP)
 4. Composer (for dependency management)
-
+## Function Structure
+school-record-management/
+│
+├── assets/                 # CSS, JS, and image assets
+├── config/                 # Configuration files
+├── database/               # SQL files for database setup
+├── vendor/                 # Composer dependencies
+├── manage-*.php            # Management modules for students, staff, teachers, and parents
+├── print-*.php             # Fee and invoice printing scripts
+├── update-*.php            # Update modules for records
+├── add-*.php               # Add modules for records
+├── delete-*.php            # Delete modules for records
+├── login.php               # Login page
+├── logout.php              # Logout functionality
+├── index.php               # Dashboard/Homepage
+└── README.md               # Project documentation
 ### Steps
 1. Clone the repository:
    ```bash
