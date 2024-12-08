@@ -1,0 +1,59 @@
+SET @num := 0;
+UPDATE students SET id = @num := (@num+1);
+ALTER TABLE students AUTO_INCREMENT = 1;
+
+
+
+
+Warning
+: Undefined variable $paid_clean in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+413
+
+
+Warning
+: Trying to access array offset on value of type null in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+413
+
+
+Warning
+: Undefined variable $total_clean in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+414
+
+
+Warning
+: Trying to access array offset on value of type null in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+414
+
+
+Warning
+: Undefined variable $remaining_clean in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+415
+
+
+Warning
+: Trying to access array offset on value of type null in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+415
+
+
+Warning
+: Undefined variable $status_clean in
+C:\xampp\htdocs\sms\bulk_add_students.php
+on line
+416
+
+
+Warning
+: Trying to access array offset on value of type null in
+C:\xampp\htdocs\sms\bulk_

@@ -1,0 +1,1 @@
+I have thought that my 1st class will have fees 1000, 2nd will have 2000, 3rd will have 3000, 4th will have 4000, 5th will have 5000, 6th will have 6000, 7th will have 7000, 8th will have 8000, 9th will have 9000, 10th will have 10000 fees. 
